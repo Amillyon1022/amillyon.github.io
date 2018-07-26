@@ -5,8 +5,18 @@
     font-size:20px;
 }
 .headshot{
-    width:20%;
-   
+    
+   display:block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width:100px;
+
+  width:300px;
+
+  border-radius:20%; 
 }
 .mid{
     background-color:white;
